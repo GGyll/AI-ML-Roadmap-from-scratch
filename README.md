@@ -242,6 +242,10 @@ Additional bonus courses and problem solving exercises.
 * [Distill Publications](https://distill.pub/)
 * [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
 
+### YouTube Channels
+* [Dave Ebbelaar](https://www.youtube.com/@daveebbelaar)
+* [Exaltitude](https://www.youtube.com/@exaltitude/videos)
+* [PropTech Founder](https://www.youtube.com/@PropTechFounder)
 
 
 ## Contribute
